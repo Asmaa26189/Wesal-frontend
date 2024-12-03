@@ -1,0 +1,15 @@
+body,
+html {
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: "Tajawal", "Amiri", "Cairo", "Open Sans", sans-serif; /* إضافة خطوط عربية */
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  color: #777;
+  font-weight: 400;
+  width: 100% !important;
+  height: 100% !important;
+  direction: rtl; /* لضبط اتجاه النصوص إلى اليمين */
+}
+code {
+  font-family: "Tajawal", "Amiri", "Cairo", "Open Sans", sans-serif; /* إضافة خطوط عربية */
+}
